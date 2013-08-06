@@ -1,4 +1,4 @@
 AOP
 ===
 
-a pure implementation app to AOP with java
+a pure implementation project to AOP with java
